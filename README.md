@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mi-Lis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Kind of databases I am using
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
